@@ -24,6 +24,7 @@
                     <tab name="tab5">
                         <h1> This is tab5</h1>
                     </tab>
+                    <!-- Add more tabs here Tab get aaded dynamically there -->
                 </tabs>
             </div>
         </section>
