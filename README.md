@@ -1,2 +1,2 @@
 # vue2
-vue2 example
+## View js small small example
